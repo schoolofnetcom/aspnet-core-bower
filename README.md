@@ -1,0 +1,3 @@
+# ASP.NET Core MVC - Bower
+
+Projeto destinado aos desenvolvedores ASP.NET Core MVC, com o objetivo de apresentar os recursos do Bower, o "gerenciador de pacores para web"por exemplo o jQuery e Bootstrap. O Bower permite você gerenciar estas bibliotecas de forma muito mais fácil, e também completa a parte de trabalhar com arquivos de conteúdo estático, coisa que o NuGet não faz com seus pacotes. Para projetos ASP.NET Core, esses arquivos estáticos são inerentes a bibliotecas do lado do cliente como jQuery e Bootstrap. Para bibliotecas .NET, você ainda usa o gerenciador de pacotes NuGet. E então veremos como estes dois gerenciadores trabalham de forma complementar um ao outro.
